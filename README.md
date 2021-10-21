@@ -17,3 +17,22 @@
  J'ai programmer un programme similaire dans un de mes cours en language C, qui recupère une liste de cote boursière mis dans un fichier text. 
  Ensuite, un script télécharge les données json et les mets dans un dossier nommé data. Il recupère des données specifique de chacune des index,
  puis il calcul avec un algorithme, et affiche les indices en classement. Vue la similarité avec ce test, je pourrai vous donner accès puisque c'est un repo privé.
+
+## Rappel des consignes
+Python test 3:
+
+Objective:
+- The candidate has to do a python api to connect to "Yahoo Finance API Pricing" 
+- Provided instrument's pricing through this python REST api
+- When user send an intrument to the api, the api replied with the last close price.
+
+Note:
+- Basic cost is free for Pricing
+- First 500 API calls is still free
+- you shouldn't use yfinance module
+- we will run your code in virtual env. Please ensure that you got everything need it in the git repo.
+
+Requirement:
+- python 3.7
+- code versioning with git
+- send code through github (please provide the link)
